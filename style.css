@@ -1,8 +1,12 @@
 .text {
   width: 100%;
   height: 15vh;
-  font-size: 2.5rem;
+  font-size: 2rem;
 }
+
+body section section{
+  color: white;
+} 
 
 .img-one {
   background: url('img/tomas.jpg');
